@@ -1,0 +1,21 @@
+package code_thieu_nhi;
+
+import java.util.Scanner;
+
+public class Tim_So_xuatHien_nhieu {
+
+	public static void main(String[] args) {
+		xuathiennhieulan();
+		
+	}
+	public static void xuathiennhieulan() {
+		Scanner nhap = new Scanner(System.in);
+		System.out.println("nhap vao so phan tu mang :");
+		int n = nhap.nextInt();
+		int[] arr = new int[n];
+		for(int i=0; i<arr.length;i++) {
+			System.out.printf("nhap vao di: arr[%d] :",+i);
+			arr[i]= nhap.nextInt();
+		}
+	}
+}

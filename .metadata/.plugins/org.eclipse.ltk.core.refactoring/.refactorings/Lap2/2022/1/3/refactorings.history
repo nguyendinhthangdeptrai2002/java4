@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;result.jsp&apos; to &apos;dangky&apos;&#x0D;&#x0A;- Original project: &apos;Lap2&apos;&#x0D;&#x0A;- Destination element: &apos;dangky&apos;&#x0D;&#x0A;- Original element: &apos;result.jsp&apos;" description="Copy file" element1="WebContent/views/dangky/result.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1642525956877" target="/Lap3/WebContent/view/dangky" units="0" version="1.0"/>
+</session>

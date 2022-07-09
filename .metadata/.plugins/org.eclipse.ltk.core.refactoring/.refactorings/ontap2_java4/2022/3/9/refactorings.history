@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ontap2_java4/src/META-INF/persistene.xml&apos; to &apos;persistence.xml&apos;" description="Rename resource &apos;persistene.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/META-INF/persistene.xml" name="persistence.xml" stamp="1646129713177" updateReferences="true"/>
+</session>

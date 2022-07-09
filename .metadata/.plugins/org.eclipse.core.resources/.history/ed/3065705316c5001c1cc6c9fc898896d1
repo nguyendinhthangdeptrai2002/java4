@@ -1,0 +1,10 @@
+package code_thieu_nhi;
+
+public class test_soNguyen {
+
+	
+	public static void main(String[] args) {
+		System.out.println("hahhaha");
+ 
+	}
+}

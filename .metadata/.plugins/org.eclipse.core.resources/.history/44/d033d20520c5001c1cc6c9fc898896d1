@@ -1,0 +1,35 @@
+package code_thieu_nhi;
+
+import java.util.Scanner;
+
+public class mayTinhDonGian {
+
+	
+	public static void main(String[] args) { tinhtoan();}
+	public static void tinhtoan(){
+	    Scanner nhap = new Scanner(System.in);
+	     int a= nhap.nextInt();
+	    String pheptoan = nhap.nextLine();
+	    int b= nhap.nextInt();
+	    int tinh = 0 ;
+	    if(pheptoan=="+"){
+	        tinh=a+b;
+	       
+	    }
+	     else if(pheptoan=="-"){
+	        tinh=a-b;
+	       
+	    }
+	     else if(pheptoan=="*"){
+	        tinh=a*b;
+	      
+	    }
+	     else if(pheptoan=="/"){
+	        tinh=a/b;
+	       
+	    }
+		
+	   System.out.println(tinh);
+	}
+
+}

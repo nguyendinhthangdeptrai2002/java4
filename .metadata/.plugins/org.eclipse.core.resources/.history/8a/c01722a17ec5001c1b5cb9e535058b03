@@ -1,0 +1,23 @@
+package code_thieu_nhi;
+
+import java.util.Scanner;
+
+public class nhapXuatMang {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		mang();
+
+	}
+	static void mang() {
+		 Scanner nhap = new Scanner(System.in);
+		 int n = nhap.nextInt();
+		 int[] arr= new int[n];
+		 System.out.println(" nhap phan tu mang: ");
+		 for(int i=0;i<arr.length;i++) {
+			 System.out.printf("a[%d]",+i);
+			 arr[i] = nhap.nextInt();
+		 }
+	}
+
+}

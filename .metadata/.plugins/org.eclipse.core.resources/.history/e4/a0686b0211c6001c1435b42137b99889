@@ -1,0 +1,37 @@
+package code_thieu_nhi;
+
+import java.util.Scanner;
+
+public class nhapXuatMang {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		mang();
+
+	}
+	static void mang() {
+		 Scanner nhap = new Scanner(System.in);
+		 	 System.out.println(" nhap phan tu mang: ");
+		 int n = nhap.nextInt();
+		 int[] arr= new int[n];
+	
+		 for(int i=0;i<arr.length;i++) {
+			 System.out.printf("a[%d]",+i);
+			 arr[i] = nhap.nextInt();
+		 }
+		 show(arr);
+	}
+	static void show(int[] arr) {
+		System.out.println("cac phan tu cua mang:");
+		for (int i=0;i<arr.length;i++) {m/j
+			System.out.println(""+arr[i]);
+		}
+	}
+	static void sapxep(int[] arr) {
+		System.out.println(" mang sau khi sap xep :");
+		int sapxep;
+		for(int i=0;i<arr.length;i++) {
+			if()
+		}
+	}
+}

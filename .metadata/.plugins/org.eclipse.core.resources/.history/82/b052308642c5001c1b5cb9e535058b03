@@ -1,0 +1,19 @@
+package code_thieu_nhi;
+
+import java.util.Scanner;
+
+public class soLonNhatTrong1mang {
+
+	
+	public static void main(String[] args) {
+	
+		
+	}
+	private static void solonnhat() {
+		
+		Scanner nhap = new Scanner(System.in);
+		int n = nhap.nextInt();
+		int[] mang= new int[n];
+		
+	}
+}

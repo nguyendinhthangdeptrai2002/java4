@@ -1,0 +1,18 @@
+.video{
+	
+	height:250px; 
+	 border: ridge;
+	 width:350px;
+	 background-color: white;
+	margin: 30px;
+}
+.dichuyen button:hover{
+    background-color: red;
+    color: green;
+  }
+
+h1{
+    
+    	
+}
+

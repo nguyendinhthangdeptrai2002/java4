@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\dinh thang\Desktop\lab4"/>
+		<item value="E:\PS18368_NguyenDinhThang_ASM_Final"/>
+		<item value="E:\PS15860_NgoXuanThi_Lab5 (1)\Lab5"/>
+		<item value="E:\PS15860_NgoXuanThi_Lab5 (1)"/>
+		<item value="E:\Lab5"/>
+		<item value="C:\Users\dinh thang\Downloads\PS15860_NgoXuanThi_Lab5\Lab5"/>
+		<item value="C:\Users\dinh thang\Downloads\PS15860_NgoXuanThi_Lab5"/>
+		<item value="C:\Users\dinh thang\Downloads\PS15860_NgoXuanThi_Lab4"/>
+		<item value="C:\Users\dinh thang\Downloads\LAB4_TruongLongTu_PS18339"/>
+		<item value="C:\Users\dinh thang\Downloads\Lab4"/>
+		<item value="C:\Users\dinh thang\Documents\GitHub\ok"/>
+		<item value="C:\Users\dinh thang\Documents\GitHub\asm-java4"/>
+		<item value="C:\Users\dinh thang\Downloads\asm-java4-main (1)\asm-java4-main"/>
+		<item value="C:\Users\dinh thang\Downloads\SOF301_PS18368_NguyenDinhThang_ASM_GD1\asm_java4"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="662" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="452" key="DIALOG_HEIGHT"/>
+		<item value="629" key="DIALOG_X_ORIGIN"/>
+		<item value="209" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\dinh thang\Downloads\PS16398_NguyenBangPhi_Lab6_demogionglabs_tot"/>
+			<item value="E:\asm-java4"/>
+			<item value="C:\Users\dinh thang\Downloads\PRO301_Nhom2_Lab5_lamtot"/>
+			<item value="C:\Users\dinh thang\Downloads\PS14048_NguyenThaiBinh_Java4_UD16101_Lab5_tot"/>
+			<item value="C:\Users\dinh thang\Documents\GitHub"/>
+			<item value="C:\Users\dinh thang\Downloads\PS18399-DUONGTUANDUC-LAB3-JAVA4"/>
+			<item value="E:\Lab5"/>
+			<item value="C:\Users\dinh thang\Downloads\PS15860_NgoXuanThi_Lab5"/>
+			<item value="E:\PS15860_NgoXuanThi_Lab4"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="828" key="DIALOG_X_ORIGIN"/>
+		<item value="266" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="645" key="DIALOG_HEIGHT"/>
+		<item value="619" key="DIALOG_X_ORIGIN"/>
+		<item value="89" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
